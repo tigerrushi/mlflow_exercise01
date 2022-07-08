@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rushikesh/mlflow%20pydataberlin/hands-on-MLFlow-walkthrough/mlruns/0/c17f584c8f554c379e687c459311eded/artifacts
+end_time: 1657261966351
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c17f584c8f554c379e687c459311eded
+run_uuid: c17f584c8f554c379e687c459311eded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657261959428
+status: 3
+tags: []
+user_id: root
